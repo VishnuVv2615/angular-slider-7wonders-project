@@ -84,9 +84,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "7WondersSlide/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "7WondersSlide/node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "7WondersSlide/node_modules/jquery/dist/jquery.min.js"
+            ]
           }
         }
       }
